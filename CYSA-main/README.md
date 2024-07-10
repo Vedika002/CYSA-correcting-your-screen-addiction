@@ -5,6 +5,7 @@ FOR  BACKGROUND  FUNCTIONALITY,  OPEN THIS WEBSITE IN A SEPARATE WINDOW AND DO W
 # Welcome to CYSA's documentation
 Be sure to check out our app at [Link](https://protected-cove-76103.herokuapp.com/). Also checkout the [Hands](https://google.github.io/mediapipe/solutions/hands.html) & [FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh.html) model of Mediapipe, an open source framework from Google, the backbone of our app.
 
+For working of the project, check the video out! [Link](https://youtu.be/AImHe1K5lbs)
 
 
 ## Variable Names and their description
